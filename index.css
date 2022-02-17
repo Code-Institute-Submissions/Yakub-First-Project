@@ -387,7 +387,7 @@ footer p:nth-child(2){
 
 /* start from contact.html css style */
 #adress{
-    width: 45%;
+    width: 32%%;
     padding: 20px 0;
     background: rgba(46, 43, 231, 0);;
     align-items: center;
@@ -433,11 +433,12 @@ footer p:nth-child(2){
 }
 
 .f_post form{
-        width: 80%;
+        width: 30%;
         padding: 20px;
-        margin: auto;
-        border-radius: 10px;
+        margin-left: 200px;
+        margin-bottom: 25px;
         background-color: white;
+        float:left
 }
 
 .skicka{
@@ -464,11 +465,11 @@ footer p:nth-child(2){
     background-position: center;
 }
 
-#about div{
-    width:30%;
-    text-align: center;
-    box-sizing: border-box;
-    float:left;
+.video{
+    width: 600px;
+    height: 500px;
+    float: right;
+    margin-right: 200px;
 }
 
 /* sign up section */
