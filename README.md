@@ -106,3 +106,20 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+
+
+This is my first project about my own biography. I tried my best soon. I will update the page later even more design and content. 
+
+
+I have fixed my project with 3 pages. I have used HTML & CSS. (index.html, contact.html, signup.html and index.css).
+
+I have validated all documents with W3C Validetion and everything shows ok. no error or warning.
+
+I have checked with lighthouse performance. It shows good couple form, accessibility and more.
+
+In any case, in a very short time I tried to follow all their requirements.
+
+
+I tried to take a screen print and justify in readme.md document but it does not work and therefore I write about it.
